@@ -1,0 +1,10 @@
+{
+    "name": "mateus/projeto-banco",
+    "description": "Atividade Prática de POO com PHP.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
